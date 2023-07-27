@@ -1,0 +1,10 @@
+﻿[
+  {
+    "Guid": "930d9097-e1c7-4ad4-8de1-69f847622fe4",
+    "Name": "PostgreDataSource",
+    "Description": "Simple plugin template for connecting with PostgreSQL datasource.",
+    "Assembly": "PostgreDataSource",
+    "Class": "PostgreDataSource.PostgreDataSource",
+    "Type": "CustomDataSource"
+  }
+]
